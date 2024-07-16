@@ -1,6 +1,6 @@
 //
 //  ThemeManager.swift
-//  Allergy Compass Test 2
+//  Allergy Compass
 //
 //  Created by iOS-Labor on 29.02.24.
 //
